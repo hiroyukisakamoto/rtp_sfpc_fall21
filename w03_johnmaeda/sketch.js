@@ -10,7 +10,7 @@ function preload() {
 }
 
 function setup() {
-    createCanvas(640, 905);
+    createCanvas(640, windowHeight);
     background(255);
     textSize(width / 4);
     textStyle(BOLD);
