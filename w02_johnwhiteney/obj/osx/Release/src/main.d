@@ -1,5 +1,5 @@
 obj/osx/Release/src/main.o: \
-  /Users/hs/Documents/of_v0.11.1_osx_release/apps/myApps/johnWhiteney/src/main.cpp \
+  /Volumes/GoogleDrive/マイドライブ/_sfpc/rtp-21fall/_git/w02_johnwhiteney/src/main.cpp \
   /Users/hs/Documents/of_v0.11.1_osx_release/libs/openFrameworks/ofMain.h \
   /Users/hs/Documents/of_v0.11.1_osx_release/libs/openFrameworks/utils/ofConstants.h \
   /Users/hs/Documents/of_v0.11.1_osx_release/libs/glew/include/GL/glew.h \
@@ -786,7 +786,7 @@ obj/osx/Release/src/main.o: \
   /Users/hs/Documents/of_v0.11.1_osx_release/libs/openFrameworks/3d/of3dUtils.h \
   /Users/hs/Documents/of_v0.11.1_osx_release/libs/openFrameworks/3d/ofCamera.h \
   /Users/hs/Documents/of_v0.11.1_osx_release/libs/openFrameworks/3d/ofEasyCam.h \
-  /Users/hs/Documents/of_v0.11.1_osx_release/apps/myApps/johnWhiteney/src/ofApp.h
+  /Volumes/GoogleDrive/マイドライブ/_sfpc/rtp-21fall/_git/w02_johnwhiteney/src/ofApp.h
 
 /Users/hs/Documents/of_v0.11.1_osx_release/libs/openFrameworks/ofMain.h:
 
@@ -2360,4 +2360,4 @@ obj/osx/Release/src/main.o: \
 
 /Users/hs/Documents/of_v0.11.1_osx_release/libs/openFrameworks/3d/ofEasyCam.h:
 
-/Users/hs/Documents/of_v0.11.1_osx_release/apps/myApps/johnWhiteney/src/ofApp.h:
+/Volumes/GoogleDrive/マイドライブ/_sfpc/rtp-21fall/_git/w02_johnwhiteney/src/ofApp.h:
