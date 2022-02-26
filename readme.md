@@ -1,2 +1,2 @@
-# SFPC_Fall_21
-Code Examples and Explorations for Recreating the Past, School for Poetic Computation, Fall 2021
+# SFPC_fall21
+Code Examples for Recreating the Past, School for Poetic Computation, Fall 2021
