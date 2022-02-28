@@ -20,7 +20,7 @@ recreation<br>
 ![recreation](/w03_johnmaeda/recreation.jpg)<br>
 ### w07_Vasulkas
 #### [Preview](https://hiroyukisakamoto.github.io/rtp_sfpc_fall21/w07_Vasulkas/bin/ruttEtra1.html) [Code](https://github.com/hiroyukisakamoto/rtp_sfpc_fall21/tree/master/w07_Vasulkas/src)
-original
+original<br>
 ![original](/w07_vasulkas/org.jpg)<br>
 recreation<br>
 ![recreation](/w07_vasulkas/recreation.jpg)
