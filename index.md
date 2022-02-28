@@ -18,8 +18,8 @@ original<br>
 ![original](/w03_johnmaeda/org.jpg)<br>
 recreation<br>
 ![recreation](/w03_johnmaeda/recreation.jpg)<br>
-### w07_Vasulkas
-#### [Preview](https://hiroyukisakamoto.github.io/rtp_sfpc_fall21/w07_Vasulkas/bin/ruttEtra1.html) [Code](https://github.com/hiroyukisakamoto/rtp_sfpc_fall21/tree/master/w07_Vasulkas/src)
+### w07_vasulkas
+#### [Preview](https://hiroyukisakamoto.github.io/rtp_sfpc_fall21/w07_vasulkas/bin/ruttEtra1.html) [Code](https://github.com/hiroyukisakamoto/rtp_sfpc_fall21/tree/master/w07_vasulkas/src)
 original<br>
 ![original](/w07_vasulkas/org.jpg)<br>
 recreation<br>
