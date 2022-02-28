@@ -7,7 +7,7 @@ recreation<br>
 ### w02_johnwhiteney
 #### [Preview](https://hiroyukisakamoto.github.io/rtp_sfpc_fall21/w02_johnwhiteney/bin/w2_johnwhiteney.html) [Code](https://github.com/hiroyukisakamoto/rtp_sfpc_fall21/tree/master/w02_johnwhiteney/src)
 original<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZrKgyY5aDvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZrKgyY5aDvA?start=552" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 recreation-001<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ssE0V7bUIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 recreation-002<br>
