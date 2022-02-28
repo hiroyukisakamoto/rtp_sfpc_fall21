@@ -1,9 +1,9 @@
 ### w01_veramolnar
 #### [Preview](https://hiroyukisakamoto.github.io/rtp_sfpc_fall21/w01_veramolnar)  [Code](https://github.com/hiroyukisakamoto/rtp_sfpc_fall21/blob/e3a89bc51d6a397db25d7a0581ffe99ce74de442/w01_veramolnar/sketch.js)
 original
-![original](https://github.com/hiroyukisakamoto/rtp_sfpc_fall21/blob/fa75043c77bd4f18e7507b5af36f93b560ff7e91/w01_veramolnar/org.jpg "original")
+![original](/w01_veramolnar/org.jpg "original")
 recreation
-![recreation](https://github.com/hiroyukisakamoto/rtp_sfpc_fall21/blob/fa75043c77bd4f18e7507b5af36f93b560ff7e91/w01_veramolnar/recreation.png "recreation")
+![recreation](/w01_veramolnar/recreation.png "recreation")
 ### w02_johnwhiteney
 #### [Preview](https://hiroyukisakamoto.github.io/rtp_sfpc_fall21/w02_johnwhiteney/bin/w2_johnwhiteney.html) [Code](https://github.com/hiroyukisakamoto/rtp_sfpc_fall21/tree/master/w02_johnwhiteney/src)
 recreation-001
@@ -13,12 +13,12 @@ recreation-002
 ### w03_johnmaeda
 #### [Preview](https://hiroyukisakamoto.github.io/rtp_sfpc_fall21/w03_johnmaeda) [Code](https://github.com/hiroyukisakamoto/rtp_sfpc_fall21/blob/master/w03_johnmaeda/sketch.js)
 original
-![original](https://github.com/hiroyukisakamoto/rtp_sfpc_fall21/blob/fa75043c77bd4f18e7507b5af36f93b560ff7e91/w03_johnmaeda/org.jpg "original")
+![original](/w03_johnmaeda/org.jpg "original")
 recreation
-![recreation](https://github.com/hiroyukisakamoto/rtp_sfpc_fall21/blob/fa75043c77bd4f18e7507b5af36f93b560ff7e91/w03_johnmaeda/recreation.jpg "recreation")
+![recreation](/w03_johnmaeda/recreation.jpg "recreation")
 ### w07_Vasulkas
 #### [Preview](https://hiroyukisakamoto.github.io/rtp_sfpc_fall21/w07_Vasulkas/bin/ruttEtra1.html) [Code](https://github.com/hiroyukisakamoto/rtp_sfpc_fall21/tree/master/w07_Vasulkas/src)
 original
-![original](https://github.com/hiroyukisakamoto/rtp_sfpc_fall21/blob/fa75043c77bd4f18e7507b5af36f93b560ff7e91/w07_vasulkas/org.jpg "original")
+![original](/w07_vasulkas/org.jpg "original")
 recreation
-![recreation](https://github.com/hiroyukisakamoto/rtp_sfpc_fall21/blob/fa75043c77bd4f18e7507b5af36f93b560ff7e91/w07_vasulkas/recreation.jpg "recreation")
+![recreation](/w07_vasulkas/recreation.jpg "recreation")
